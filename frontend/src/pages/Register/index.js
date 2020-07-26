@@ -49,7 +49,7 @@ export default function Register() {
           <h1>Cadastrar</h1>
           <p>Faça seu cadastro, entre na planaforma e ajude pessoas a encontrarem os casos da sua ONG</p>
 
-          <Link className=".back-link" to="/">
+          <Link className="back-link" to="/">
             <FiArrowLeft size={16} color="#E02041" />
                      Não tenho cadastro
                   </Link>
